@@ -1,33 +1,72 @@
-<h1 align="center">Hi 👋, I'm Astitva Pal</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRjdzFxbXVud3EyYmQwYjlra3B6cm16MWtmZ2thNWZ1djVhcXh2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ox91VuRSYDxKkQF3zf/giphy.gif">
+<h1 align="center" style="color:#00ff41; font-family:monospace;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" /> Astitva Pal — <span style="color:#00ff41;">Android Hacker</span> 🐉
+</h1>
+<h3 align="center" style="color:#fff; background:#222; padding:8px 0; border-radius:6px; font-family:monospace;">
+  Coding | Puzzling | Creating Disruption
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astit5121&label=Profile%20views&color=0e75b6&style=flat" alt="astit5121" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **EDLLY**
-
-- 🌱 I’m currently learning **React-Native**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **astitvapal2002@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/astitva-pal-a27aa929b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astitva-pal-a27aa929b" height="30" width="40" /></a>
-<a href="https://instagram.com/astitva_pal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astitva_pal20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/astit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRjdzFxbXVud3EyYmQwYjlra3B6cm16MWtmZ2thNWZ1djVhcXh2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ox91VuRSYDxKkQF3zf/giphy.gif" alt="Coding" width="370" style="border-radius:1rem; box-shadow:0 9px 30px #00ff4155;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=800&size=23&pause=1200&color=00FF41&center=true&vCenter=true&width=540&lines=ANDROID+DEVELOPER;PUZZLE+MASTER;CODE+LIKE+A+HACKER;WELCOME+TO+MY+TERMINAL." />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astit5121&show_icons=true&locale=en&layout=compact" alt="astit5121" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astit5121&show_icons=true&locale=en" alt="astit5121" /></p>
+## 🧩 Terminal Puzzle Game
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astit5121&" alt="astit5121" /></p>
+<div align="center">
+
+<!-- 15 Puzzle Game (pure HTML+CSS+JS, runs on GitHub Pages or most markdown previewers) -->
+<!-- For GitHub, use a link to CodePen or embed as a badge/iframe if supported: -->
+
+<a href="https://codepen.io/prathimacode-hub/full/LYZzqYw" target="_blank">
+  <img src="https://img.shields.io/badge/Play%20Puzzle%20Game-%2300ff41?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Play Puzzle Game" />
+</a>
+<br>
+<sub style="color:#888">Try to organize the tiles in order using the least moves. <br>Puzzle launches in a new tab!</sub>
+
+</div>
+
+---
+
+## 👾 Whoami
+
+
+---
+
+## 🌐 Connect (Stealth Mode)
+
+<p align="center">
+  <a href="https://linkedin.com/in/astitva-pal-a27aa929b"><img src="https://img.shields.io/badge/LinkedIn-%2300ff41?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/astitva_pal20"><img src="https://img.shields.io/badge/Instagram-%2300ff41?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.leetcode.com/astit"><img src="https://img.shields.io/badge/LeetCode-%2300ff41?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,java,kotlin,react,reactnative,nodejs,mongodb,mysql,aws,css,html,tailwind,git,linux" height="42" />
+</p>
+
+---
+
+## 📊 Hacker Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astit5121&layout=compact&theme=radical&hide_border=true&title_color=00ff41" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=astit5121&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=00ff41" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astit5121&theme=radical&hide_border=true&date_format=M[%20]j[%2C%20Y]&sideNums=00ff41" height="140"/>
+</p>
+
+---
+
+<p align="center" style="color:#00ff41; font-family:monospace; font-size:1.3rem;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=420&lines=Unlock+code.+Solve+puzzles.+Make+history."/>
+</p>
+
+
