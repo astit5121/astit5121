@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=800&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=520&height=34&lines=Clean+Architecture;+Scalable+Code;+Mobile+Innovation;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=800&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=520&height=34&lines=Clean+Architecture;+Scalable+Coder;+Mobile+Innovation;" />
 </div>
 
 ---
